@@ -2,7 +2,7 @@
 its a simple project built on  esp8266 module , the short description , its the simple women's protection device which used nodemcu and ifttt
 
 # purpose of this project
-it basically designed for  a person mainly womens and child who faces a criticle situation like accident or any life threats , when person uses this device it alerts to the person of there choice and send a sos singl;e through sms or through a email .
+it basically designed for  a person mainly womens and child who faces a criticle situation like accident or any life threats , when person uses this device it alerts to the person of there choice and send a sos signal through sms or through a email .
 
 
 ### Working principle
